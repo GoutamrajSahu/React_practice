@@ -8,7 +8,6 @@ ReactDom.render(
       <li>Panir</li>
       <li>Sandwitch</li>
       <li>Pizza</li>
-      <li>Biriyani</li>
     </ul>
   </div>,
   document.getElementById("root")
